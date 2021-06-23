@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WIRE", "..\..\..\Dropbox\WIRE\", "{EE15DE61-1833-4D5D-A851-8D37EE0A0493}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58261"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Dropbox\WIRE\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58261\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58261"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Dropbox\WIRE\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58261\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58261"
+		SlnRelativePath = "..\..\..\Dropbox\WIRE\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE15DE61-1833-4D5D-A851-8D37EE0A0493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE15DE61-1833-4D5D-A851-8D37EE0A0493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F1F519E-DF1E-4361-AFDC-5499410C6978}
+	EndGlobalSection
+EndGlobal
